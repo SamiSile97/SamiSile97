@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there, I'm Sami 👋
 
-<!--
-**SamiSile97/SamiSile97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently taking part in the School of Code Full-Stack Web Development Bootcamp - My background is in Chemistry where my interest in solving complex problems and learning new concepts began. I am hoping to combine these skills with tech as well as sparking some creativity with design.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on the School of Code final project. 
+🌱 I’m currently learning a lot... JS, Playwright, Jest, React, NodeJS, HTML, CSS, Express and PostgreSQL.
+👯 I’m looking to collaborate on any personal projects or open source projects (please let me know if you have anything in mind)
+🤔 I’m looking for help with design! Please point me in the direction of any great resources that will get some creativity flowing.
+💬 Ask me about anything - It would be great to connect 
+📫 How to reach me: 
+😄 Pronouns: He/Him
+⚡ Fun fact: I can speak Arabic Fluently 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
