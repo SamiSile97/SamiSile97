@@ -9,5 +9,5 @@ I am currently taking part in the School of Code Full-Stack Web Development Boot
 💬 Ask me about anything - It would be great to connect 
 📫 How to reach me: 
 😄 Pronouns: He/Him
-⚡ Fun fact: I can speak Arabic Fluently 
+⚡ Fun fact: I can speak Arabic
 
