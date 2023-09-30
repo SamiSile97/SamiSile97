@@ -4,8 +4,8 @@
   ### Hey there, I'm Sami, a School of Code graduate - this is what I actually look like ⤵
  <img width="25%" src="https://github.com/SamiSile97/SamiSile97/assets/99536190/bb49ccfa-c0b8-43f8-96be-f019647df5e0"></img>
 
- But when I am coding I look like this...⤵
-
+ But when I am coding I look like this...⤵<br>
+  <img width="25%" src="https://github.com/SamiSile97/SamiSile97/assets/99536190/6758a4c7-e4c7-43b6-bd6f-e06698f45217"></img>
 
  ## A little bit about me
 My background is in Chemistry but I have worked in lots and lots of different jobs/industries. 
